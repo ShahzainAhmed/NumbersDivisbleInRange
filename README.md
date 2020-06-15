@@ -12,3 +12,4 @@
 
 ## Program Explanation:
 - User must enter the upper range limit and the lower range limit.
+- Then the user must enter the number to be divided from the user.
