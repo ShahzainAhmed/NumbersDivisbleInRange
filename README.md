@@ -6,4 +6,4 @@
 
 ## Problem Solution:
 - Take in the upper range and lower range limit from the user.
-- Take in the number to be divided 
+- Take in the number to be divided by from the user.
