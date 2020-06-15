@@ -11,3 +11,4 @@
 - Exit.
 
 ## Program Explanation:
+- User must enter the upper range limit and the lower range limit.
