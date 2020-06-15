@@ -1,3 +1,4 @@
+# Taking input of lower range from the user.
 lower=int(input("Enter lower range limit: "))
 upper=int(input("Enter upper range limit: "))
 n=int(input("Enter the number to be divided by: "))
