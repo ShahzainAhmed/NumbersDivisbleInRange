@@ -14,3 +14,4 @@
 - User must enter the upper range limit and the lower range limit.
 - Then the user must enter the number to be divided from the user.
 - The value of i ranges from the lower limit to the upper limit.
+- Whenever the remainder of the number divided by i is equal to 0, i is printed.
