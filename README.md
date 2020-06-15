@@ -3,3 +3,5 @@
 
 ## Problem Description:
 ### The program prints all numbers in a range divisible by a given number.
+
+## Problem Solution:
